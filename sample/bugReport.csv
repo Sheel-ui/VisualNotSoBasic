@@ -1,0 +1,88 @@
+bugId,bug,assignedTo,detectedBy,status
+1,Null pointer exception in login module,Sheel,Shivani,assigned
+2,Responsive design issue on product page,Shivani,Vedant,inprogress
+3,Data inconsistency in user profile,Sheel,Ahan,resolved
+4,Authentication failure on mobile app,Shivani,Abdul,closed
+5,Slow performance during data import,Sheel,Nandini,assigned
+6,Incorrect calculation in billing module,Shivani,Shaanya,inprogress
+7,Error message not displayed on form submission failure,Sheel,Bhavesh,resolved
+8,404 error on product detail page,Shivani,Sheel,closed
+9,Email notifications not being sent,Sheel,Shivani,assigned
+10,Database connection timeout,Shivani,Vedant,inprogress
+11,UI alignment issue on dashboard,Sheel,Ahan,resolved
+12,Search functionality not returning results,Shivani,Abdul,closed
+13,Application crash on iOS devices,Sheel,Nandini,assigned
+14,Invalid data validation not working,Shivani,Shaanya,inprogress
+15,Memory leak in background processes,Sheel,Bhavesh,resolved
+16,File upload not working on Safari browser,Shivani,Sheel,closed
+17,Permission denied error on file access,Sheel,Shivani,assigned
+18,Page not found error on logout,Shivani,Vedant,inprogress
+19,Incorrect data displayed in analytics report,Sheel,Ahan,resolved
+20,Feature request for new user role,Shivani,Abdul,closed
+21,Image upload failing intermittently,Sheel,Nandini,assigned
+22,Validation error on password reset form,Shivani,Shaanya,inprogress
+23,Integration issue with payment gateway,Sheel,Bhavesh,resolved
+24,Session timeout on inactive user,Shivani,Sheel,closed
+25,Database deadlock during high traffic,Sheel,Shivani,assigned
+26,Invoice generation failure,Shivani,Vedant,inprogress
+27,Graph data not updating in real-time,Sheel,Ahan,resolved
+28,Page loading spinner not appearing,Shivani,Abdul,closed
+29,Security vulnerability in authentication process,Sheel,Nandini,assigned
+30,Page scroll not smooth on mobile devices,Shivani,Shaanya,inprogress
+31,Email link not clickable in certain clients,Sheel,Bhavesh,resolved
+32,Order history not displaying complete data,Shivani,Sheel,closed
+33,API endpoint returning incorrect data,Sheel,Shivani,assigned
+34,PDF generation error in reporting module,Shivani,Vedant,inprogress
+35,Cache not updating for frequently accessed data,Sheel,Ahan,resolved
+36,Image compression issue on upload,Shivani,Abdul,closed
+37,Incorrect currency conversion rates,Sheel,Nandini,assigned
+38,File download corrupted,Shivani,Shaanya,inprogress
+39,Infinite loop in background processing,Sheel,Bhavesh,resolved
+40,Session data loss after browser refresh,Shivani,Sheel,closed
+41,Access control issue in admin panel,Sheel,Shivani,assigned
+42,User registration failure,Shivani,Vedant,inprogress
+43,Unresponsive UI during data retrieval,Sheel,Ahan,resolved
+44,Invalid input not handled gracefully,Shivani,Abdul,closed
+45,Timeout error during API call,Sheel,Nandini,assigned
+46,Data export failing for large datasets,Shivani,Shaanya,inprogress
+47,Error message not translated in multilingual setup,Sheel,Bhavesh,resolved
+48,Custom field not saving values,Shivani,Sheel,closed
+49,Dashboard widgets not customizable,Sheel,Shivani,assigned
+50,Slow page load times on mobile devices,Shivani,Vedant,inprogress
+51,File upload progress indicator missing,Sheel,Ahan,resolved
+52,Database migration script failure,Shivani,Abdul,closed
+53,404 error on API endpoint,Sheel,Nandini,assigned
+54,Email formatting issue in notification template,Shivani,Shaanya,inprogress
+55,Concurrency issue in data processing,Sheel,Bhavesh,resolved
+56,Session expiration not redirecting to login page,Shivani,Sheel,closed
+57,Permission escalation vulnerability,Sheel,Shivani,assigned
+58,SQL injection vulnerability in search feature,Shivani,Vedant,inprogress
+59,UI element misalignment on mobile devices,Sheel,Ahan,resolved
+60,Error handling missing in API response,Shivani,Abdul,closed
+61,Invalid data display in dashboard charts,Sheel,Nandini,assigned
+62,Feature toggle not working as expected,Shivani,Shaanya,inprogress
+63,Memory overflow crash during large data processing,Sheel,Bhavesh,resolved
+64,Session token leakage in API responses,Shivani,Sheel,closed
+65,Data duplication issue in database,Sheel,Shivani,assigned
+66,Error handling missing in file upload,Shivani,Vedant,inprogress
+67,API rate limit exceeded error,Sheel,Ahan,resolved
+68,Integration issue with third-party service,Shivani,Abdul,closed
+69,Search index corruption causing incomplete results,Sheel,Nandini,assigned
+70,Invalid password reset link sent to users,Shivani,Shaanya,inprogress
+71,File upload size limit not enforced,Sheel,Bhavesh,resolved
+72,API response time exceeding SLA,Shivani,Sheel,closed
+73,Data encryption vulnerability,Sheel,Shivani,assigned
+74,Uncaught exception in background job,Shivani,Vedant,inprogress
+75,Incorrect data displayed in user dashboard,Sheel,Ahan,resolved
+76,Incorrect redirection after login,Shivani,Abdul,closed
+77,404 error on image assets,Sheel,Nandini,assigned
+78,Data import failure due to formatting issues,Shivani,Shaanya,inprogress
+79,Invalid login attempt not rate limited,Sheel,Bhavesh,resolved
+80,Slow response times from database queries,Shivani,Sheel,closed
+81,Access control issue with user roles,Sheel,Shivani,assigned
+82,Error handling missing in form submissions,Shivani,Vedant,inprogress
+83,Stale data displayed in user profile,Sheel,Ahan,resolved
+84,Email notifications sent to wrong recipients,Shivani,Abdul,closed
+85,Session fixation vulnerability,Sheel,Nandini,assigned
+86,Incorrect data aggregation in reports,Shivani,Shaanya,inprogress
+87,Inconsistent behavior in search autocomplete,Sheel,Bhavesh,resolved

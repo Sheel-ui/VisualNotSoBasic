@@ -1,0 +1,48 @@
+studentId,studentName,division,major,gpa
+1,John Smith,A,Computer Science,3.6
+2,Alice Johnson,B,Business,3.2
+3,Michael Lee,C,Biology,3.7
+4,Emily Wang,D,Arts,3.8
+5,David Garcia,E,Computer Science,3.4
+6,Sarah Martinez,F,Business,3.6
+7,James Taylor,G,Robotics,3.9
+8,Sophia Brown,H,Arts,3.3
+9,Matthew Nguyen,A,Mathematics,3.1
+10,Olivia Anderson,B,Accounting,3.7
+11,Ethan Wilson,C,Biology,3.5
+12,Isabella Perez,D,Arts,3.6
+13,Liam Jackson,E,Computer Science,3.8
+14,Ava White,F,Business,3.2
+15,Noah Harris,G,Robotics,3.9
+16,Mia Martin,H,Arts,3.4
+17,William Thompson,A,Mathematics,3.7
+18,Sophie Rodriguez,B,Accounting,3.3
+19,Alexander Hernandez,C,Biology,3.6
+20,Charlotte Garcia,D,Arts,3.1
+21,Daniel Martinez,E,Computer Science,3.5
+22,Amelia Lopez,F,Business,3.8
+23,Benjamin Adams,G,Robotics,3.9
+24,Chloe Carter,H,Arts,3.2
+25,Elijah Nguyen,A,Mathematics,3.6
+26,Grace Kim,B,Accounting,3.4
+27,Aiden Rivera,C,Biology,3.7
+28,Zoe King,D,Arts,3.5
+29,Michaela Scott,E,Computer Science,3.1
+30,Nathan Ward,F,Business,3.8
+31,Scarlett Wright,G,Robotics,3.9
+32,Logan Perez,H,Arts,3.3
+33,Hannah Young,A,Mathematics,3.6
+34,Owen Lewis,B,Accounting,3.7
+35,Ellie Baker,C,Biology,3.2
+36,Jack Adams,D,Arts,3.5
+37,Madison Hill,E,Computer Science,3.8
+38,Lucas Torres,F,Business,3.4
+39,Avery Coleman,G,Robotics,3.9
+40,Isaac Flores,H,Arts,3.6
+41,Riley Mitchell,A,Mathematics,3.1
+42,Aubrey Barnes,B,Accounting,3.7
+43,Levi Ward,C,Biology,3.8
+44,Bella Collins,D,Arts,3.2
+45,William Murphy,E,Computer Science,3.5
+46,Samantha Cook,F,Business,3.9
+47,David Stewart,G,Robotics, 2.4

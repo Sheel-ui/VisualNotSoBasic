@@ -1,0 +1,41 @@
+productID,name,description,category,quantityInStock,unitPrice
+1001,Desktop Computer,"High-performance desktop computer with Intel Core i7 processor, 16GB RAM, and 1TB SSD storage",Electronics,25,899.99
+1002,Laptop,"Slim and lightweight laptop with Intel Core i5 processor, 8GB RAM, and 512GB SSD storage",Electronics,35,749.99
+1003,Smartphone,"Latest smartphone with 6.5-inch display, dual rear cameras, and 128GB storage",Electronics,50,599.99
+1004,Tablet,"10-inch tablet with HD display, quad-core processor, and 64GB storage",Electronics,40,299.99
+1005,Smartwatch,"Waterproof smartwatch with heart rate monitor, GPS, and activity tracking features",Electronics,60,199.99
+1006,Wireless Headphones,"Over-ear wireless headphones with noise cancellation and 20-hour battery life",Electronics,45,149.99
+1007,Bluetooth Speaker,"Portable Bluetooth speaker with 360-degree sound and built-in microphone",Electronics,55,79.99
+1008,4K Ultra HD TV,"65-inch 4K Ultra HD smart TV with HDR, Dolby Vision, and built-in streaming apps",Electronics,30,1299.99
+1009,Home Theater System,"Complete home theater system with AV receiver, 5 speakers, and subwoofer",Electronics,20,499.99
+1010,Wireless Router,"Dual-band wireless router with gigabit ports and MU-MIMO technology",Electronics,70,99.99
+1011,Office Chair,"Ergonomic office chair with adjustable lumbar support and breathable mesh back",Furniture,40,199.99
+1012,Desk,"Modern computer desk with spacious work surface and built-in storage compartments",Furniture,50,149.99
+1013,Sofa,"3-seater sofa with plush cushions and durable fabric upholstery",Furniture,15,599.99
+1014,Dining Table,"Rectangular dining table with solid wood construction and seating for six",Furniture,25,399.99
+1015,Bed Frame,"Queen-size bed frame with upholstered headboard and sturdy metal slats",Furniture,20,299.99
+1016,Nightstand,"Bedside nightstand with drawer and open shelf for storage",Furniture,30,79.99
+1017,Bookshelf,"Tall bookshelf with adjustable shelves and sleek contemporary design",Furniture,35,129.99
+1018,Area Rug,"Large area rug with abstract pattern and stain-resistant fibers",Home & Decor,55,149.99
+1019,Table Lamp,"Modern table lamp with fabric shade and brushed nickel finish",Home & Decor,65,39.99
+1020,Wall Clock,"Large wall clock with silent quartz movement and minimalist design",Home & Decor,50,19.99
+1021,Throw Pillow,"Decorative throw pillow with geometric pattern and plush filling",Home & Decor,75,14.99
+1022,Picture Frame,"Collage picture frame with space for multiple photos, perfect for displaying memories",Home & Decor,80,24.99
+1023,Coffee Maker,"Programmable coffee maker with brew strength control and 12-cup capacity",Kitchen & Dining,40,79.99
+1024,Blender,"High-speed blender with powerful motor and BPA-free pitcher",Kitchen & Dining,45,59.99
+1025,Toaster Oven,"Compact toaster oven with convection heating and 6-slice capacity",Kitchen & Dining,30,89.99
+1026,Non-Stick Cookware Set,"10-piece non-stick cookware set with heat-resistant handles and tempered glass lids",Kitchen & Dining,35,129.99
+1027,Knife Block Set,"15-piece knife block set with stainless steel blades and ergonomic handles",Kitchen & Dining,25,49.99
+1028,Travel Backpack,"Water-resistant travel backpack with padded laptop compartment and multiple pockets",Luggage & Travel,50,49.99
+1029,Hardside Suitcase,"Lightweight hardside suitcase with spinner wheels and TSA-approved lock",Luggage & Travel,40,99.99
+1030,Duffel Bag,"Durable duffel bag with removable shoulder strap and multiple compartments",Luggage & Travel,60,29.99
+1031,Travel Pillow,"Memory foam travel pillow with washable cover and compact carrying pouch",Luggage & Travel,70,19.99
+1032,Carry-On Luggage,"Carry-on luggage with expandable capacity and telescoping handle",Luggage & Travel,55,79.99
+1033,Wireless Mouse,"Ergonomic wireless mouse with adjustable DPI and long battery life",Office Supplies,65,19.99
+1034,Wireless Keyboard,"Slim wireless keyboard with full-size layout and quiet keys",Office Supplies,70,29.99
+1035,Desk Organizer,"Mesh desk organizer with multiple compartments for pens, pencils, and office supplies",Office Supplies,80,14.99
+1036,Desk Lamp,"Adjustable LED desk lamp with touch-sensitive controls and USB charging port",Office Supplies,75,34.99
+1037,File Cabinet,"2-drawer file cabinet with lockable drawers and durable steel construction",Office Supplies,50,99.99
+1038,Printer,"All-in-one printer with wireless connectivity and automatic document feeder",Technology,35,199.99
+1039,External Hard Drive,"Portable external hard drive with USB 3.0 connectivity and automatic backup software",Technology,40,79.99
+1040,Wireless Mouse,"Ergonomic wireless mouse with adjustable DPI and long battery life",Technology,50,49.99
